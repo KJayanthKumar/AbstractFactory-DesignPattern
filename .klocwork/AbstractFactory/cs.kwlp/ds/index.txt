@@ -1,0 +1,11 @@
+C:\Learning\AbstractFactory\AbstractFactory\AnimalFactory.cs;;1;0;False;514BDE9B6D78327D3F7DA4D74E1ED9E8498EA343;False
+C:\Learning\AbstractFactory\AbstractFactory\Cat.cs;;2;0;False;654848BA4F2C50450B3DCB0B45BD83467A5E86CB;False
+C:\Learning\AbstractFactory\AbstractFactory\Dog.cs;;3;0;False;C68821B23AD4FAC7EE4FD883A0FAACDD6BD3D688;False
+C:\Learning\AbstractFactory\AbstractFactory\IAnimal.cs;;4;0;False;7E54732D46D23B07B41BBE700D97C4649AF9DCDA;False
+C:\Learning\AbstractFactory\AbstractFactory\LandAnimalFactory.cs;;5;0;False;B04D40E6074F30329174B1295B5158592177467F;False
+C:\Learning\AbstractFactory\AbstractFactory\Lion.cs;;6;0;False;8C26D2BE2176B22BAC0AA406F87858DE5A940F6F;False
+C:\Learning\AbstractFactory\AbstractFactory\Octopus.cs;;7;0;False;FE0EF70571F079679656F391BA63DFE5F5033A0E;False
+C:\Learning\AbstractFactory\AbstractFactory\Program.cs;;8;0;False;1ED70BA6336EA454EDAF399DEA0E971051C58B60;False
+C:\Learning\AbstractFactory\AbstractFactory\Properties\AssemblyInfo.cs;;9;0;False;C9EE7F81AB5D7AF74104E51BA2FB92044A557CEF;False
+C:\Learning\AbstractFactory\AbstractFactory\SeaAnimalFactory.cs;;10;0;False;2ADDE66984370EA166F08212CD5AF3F37ACD0EE8;False
+C:\Learning\AbstractFactory\AbstractFactory\Shark.cs;;11;0;False;80B40427C8A907DA1EBC19F2DF57001A502957B2;False
